@@ -4,7 +4,7 @@ tags: [dashboard, home]
 date-maj: <% tp.date.now('YYYY-MM-DD') %>
 ---
 
-# 🏠 Second Brain — Cherif BARRY
+# 🏠 Second Brain — Chérif BARRY
 
 > **Doctorant FRACNET-CITY · Université Paris-Saclay · 2026–2029**
 > *Analyse multifractale conjointe de la forme urbaine et des réseaux de chaleur*

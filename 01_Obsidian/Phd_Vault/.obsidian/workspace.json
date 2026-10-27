@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_HOME.md",
+                "file": "_templates/Project Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_HOME"
+              "title": "Project Note"
             }
           }
         ]
@@ -189,22 +189,22 @@
   },
   "active": "7ef3f55c9296f090",
   "lastOpenFiles": [
+    "_templates/Paper Draft.md",
+    "_templates/Method Note.md",
+    "_templates/Meeting.md",
+    "_templates/Literature Note.md",
+    "_templates/Experiment.md",
+    "_templates/Daily.md",
+    "_templates/Concept Note.md",
+    "_HOME.md",
     "Sans titre 1.md",
     "Sans titre.md",
     "Pasted image 20261021161933.png",
     "_templates/Weekly Review.md",
     "_templates/Project Note.md",
-    "_templates/Paper Draft.md",
     "_templates/Thesis Chapter.md",
     "_templates/Result.md",
-    "_templates/Experiment.md",
-    "_templates/Meeting.md",
-    "_templates/Method Note.md",
-    "_templates/Concept Note.md",
-    "_templates/Daily.md",
-    "_templates/Literature Note.md",
     "90_Personal/_MOC_Personal.md",
-    "_HOME.md",
     "Bienvenue.md"
   ]
 }
